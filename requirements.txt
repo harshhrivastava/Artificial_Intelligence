@@ -1,0 +1,13 @@
+numpy
+matplotlib
+pandas
+seaborn
+ipykernel
+scikit-learn
+statsmodels
+xgboost
+tensorflow
+pytorch
+opencv-contrib-python
+pillow
+gradio
